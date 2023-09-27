@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>keyaction/KeyAction.qml</file>
+        <file>rec1/Rec1.qml</file>
+        <file>rec2/Rec2.qml</file>
+        <file>rec3/Rec3.qml</file>
+    </qresource>
+</RCC>
